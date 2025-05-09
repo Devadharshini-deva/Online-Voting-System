@@ -1,0 +1,13 @@
+# Core Dependencies
+opencv-python==4.8.0.76
+deepface==0.0.79
+firebase-admin==6.2.0
+numpy==1.24.4
+Pillow==9.5.0
+
+# GUI (Kivy Framework)
+kivy==2.3.0
+kivy-deps.angle==0.3.3
+kivy-deps.glew==0.3.1
+kivy-deps.sdl2==0.6.0
+kivy-examples==2.3.0
